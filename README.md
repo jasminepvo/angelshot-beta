@@ -1,1 +1,1 @@
-# angelshot-beta
+# Template for Open Source Project
